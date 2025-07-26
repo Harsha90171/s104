@@ -1,5 +1,0 @@
-"HI GIT" 
-
-welcome to git s104
-
-git basics 
